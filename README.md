@@ -1,2 +1,2 @@
 # UnitConverter
-HyperSkill Project for Kotlin
+HyperSkill Unit Conversion Project with Kotlin
